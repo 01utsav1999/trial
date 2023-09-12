@@ -1,0 +1,10 @@
+.trial{
+  background-image: url('/img1.jpeg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: antiquewhite;
+
+  width: 500px;
+  height: 500px;
+
+}
